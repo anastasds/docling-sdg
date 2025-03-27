@@ -1,0 +1,278 @@
+seed_examples:
+  - context: "Herein, this manuscript explores the significance of the phosphoglucomutase\n\
+      (PGM) enzyme in Pneumocystis spp., focusing on its role in fungal surface\n\
+      mannoprotein formation. Through expression of the Pneumocystis murina Pmpgm2\
+      \ in\na Saccharomyces cerevisiae pgm2 \u0394 strain, we demonstrate restoration\
+      \ of binding\nto the mannose receptor (MR) and macrophages to wildtype yeast\
+      \ levels in this\ncomplemented strain. Gas Chromatography-Mass Spectroscopy\
+      \ (GC-MS) confirmed\nreduced mannose content in the pgm2 \u0394 yeast strain\
+      \ compared to the wild-type and\ncomplemented Pmpgm2 cDNA-expressing strains.\
+      \ This study underscores fungal PGM\nfunction in dolichol glucosyl phosphate\
+      \ biosynthesis, crucial for proper cell\nwall mannoprotein formation. Furthermore,\
+      \ highlighting the  conservation  of\ntargetable  cysteine  residues  across\
+      \  fungal  pathogens,  PGM  inhibition\nmaybe  a  potential therapeutic strategy\
+      \ against a broad spectrum of fungal\ninfections."
+    questions_and_answers:
+      - question: What enzyme does the manuscript mainly focus on?
+        answer: Phosphoglucomutase (PGM)
+      - question: "What is the effect of expressing Pneumocystis murina Pmpgm2 in\
+          \ a Saccharomyces\ncerevisiae pgm2 \u0394 strain?"
+        answer: |-
+          It restores binding to the mannose receptor (MR) and macrophages to wildtype
+          yeast levels
+      - question: |-
+          Based on the information, why could PGM inhibition be a potential therapeutic
+          strategy against a broad spectrum of fungal infections?
+        answer: |-
+          Because fungal PGM has conserved targetable cysteine residues across fungal
+          pathogens, and its function is crucial for proper cell wall mannoprotein
+          formation
+  - context: "Pneumocystis is  a  fungus  belonging  to  the  phylum  Ascomycota (Gigliotti\
+      \ et\nal., 2014). Pneumocytis jirovecii is one of the most common opportunistic\n\
+      pathogens in individuals with HIV infection (Huang et al., 2011).  While  the\n\
+      advent  of  highly  active  antiretroviral  therapy  has decreased the incidence\n\
+      of Pneumocystis jirovecii Pneumonia (PJP) in HIV  (Lopez-Sanchez  et  al.,\n\
+      2015);  the  incidence  of  non-HIV-infected patients with PJP appears to be\n\
+      increasing, and the mortality rate remains unacceptably high (Pates et al.,\n\
+      2023; Wang et al., 2022). The Pneumocystis cell surface is decorated with \u03B2\
+      \ -1,3\nand \u03B2 -1,6 glucans along with the most abundant cell surface component\
+      \ of the\norganism, the major surface glycoprotein (MSG; also known as gpA)\
+      \ (Kottom et\nal., 2015; Kutty et al., 2013; Kutty et al., 2008; Kottom and\
+      \ Limper, 2000; De\nStefano et al., 1998). MSG is a glycoprotein complex that\
+      \ is not highly\nmannosylated, with the M5N2 being the predominant N- linked\
+      \ glycan present  on\nPneumocystis MSG-proteins  (Ma  et  al.,  2016).  MSG\
+      \  is expressed on both cyst\nand trophic forms of the organism, but more abundantly\
+      \ present on the trophic\nstage (Evans and Garvy, 2018). MSG appears  to  be\
+      \  involved  in  attachment  of\nthe  organism  to  alveolar epithelial cells,\
+      \ as well as to macrophages via\nbinding to C-type lectin receptors (CLRs) including\
+      \ the mannose receptor (MR)\n(Kottom et al., 2019; Sassi et al., 2018; Ezekowitz\
+      \ et al., 1991)."
+    questions_and_answers:
+      - question: What phylum does Pneumocystis belong to?
+        answer: Pneumocystis belongs to the phylum Ascomycota.
+  - context: "Recently, we reported the presence and biochemical characterization\
+      \ of the\nPneumocystis jirovecii and Pneumocystis murina phosphoglucomutases\
+      \ (PGMs) in\nPneumocystis . Both PGMs complemented the Saccharomyces  cerevisiae\
+      \  pgm 2 \u0394\nstrain  in  similar  fashion  and  also  displayed similar\
+      \  phosphoglucomutase\nactivity,  indicating  their  substantial  homology and\
+      \ cross function (Kottom\net al., 2024). In yeast, PGMs are important for carbohydrate\
+      \ metabolism through\nthe interconversion of glucose 1-phosphate (Glc-1-P) and\
+      \ glucose 6-phosphate\n(Glc-6-P), a vital step in UDP pools for  -glucan cell\
+      \ wall formation (Yan et\nal., 2022). Less \u03B2 appreciated and understudied\
+      \ is the potential role of PGM\nactivity on the expression of fungal surface\
+      \ mannoproteins. In this study, we\nanalyzed the ability of the Pneumocystis\
+      \ murina Pmpgm2 cDNA expressed in the\nSaccharomyces  cerevisiae  pgm 2 \u0394\
+      \ strain  versus  the  yeast  wild-  type\ncounterpart to bind a panel of hFc\
+      \ fusion C-type lectin receptor (CLR)\ncarbohydrate  recognition  domains  (CRDs),\
+      \  as  well  as  the  binding  of\nthese yeast constructs to the mouse macrophage\
+      \ RAW cell line. As Fig. 1 shows of\nthe four Fc-fusion CRD proteins tested,\
+      \ the pgm2 -null yeast was significantly\naltered in the ability to bind the\
+      \ mannose receptor (MR) CRD as compared to the\nwild-type and Pmpgm2 restored\
+      \ counterparts ( A ).  Furthermore, the deleted pgm2\nyeast were similarly defective\
+      \ in their ability to bind the RAW macrophage cell\nline ( B ). Analysis of\
+      \ the yeast cell wall composition by Gas Chromatography-\nMass Spectroscopy\
+      \ (GC MS)  revealed  that  the -pgm 2 \u0394 yeast  strain  contains\n2-3X \
+      \ less"
+    questions_and_answers:
+      - question: |-
+          What is the effect of deleting pgm2 in yeast on its ability to bind the mannose
+          receptor (MR) CRD?
+        answer: |-
+          The yeast strain with deleted pgm2 is significantly altered in its ability to
+          bind the mannose receptor (MR) CRD.
+      - question: |-
+          What are the binding abilities of the Pneumocystis murina Pmpgm2 restored yeast
+          and the wild-type yeast compared to the pgm2-null yeast?
+        answer: |-
+          The Pneumocystis murina Pmpgm2 restored yeast and the wild-type yeast can bind
+          the mannose receptor (MR) CRD and the RAW macrophage cell line, unlike the
+          pgm2-null yeast which is defective in its ability to bind these.
+      - question: |-
+          Based on the provided data, what can be inferred about the role of PGM activity
+          on the expression of fungal surface mannoproteins?
+        answer: |-
+          The data suggests that PGM activity may play a role in the expression of fungal
+          surface mannoproteins, as the yeast strain with deleted pgm2 is significantly
+          altered in its ability to bind the mannose receptor (MR) CRD, which is a
+          mannoprotein.
+  - context: "In addition to the importance of PGM in yeast during glucan synthesis\
+      \ from donor\nuridine diphosphate glucose, with the conversion of glucose-6-phosphate\
+      \ to\nglucose-1-phosphate by the enzyme (Yan et al., 2022), PGM also has an\
+      \ important\nrole in the dolichol glucosyl phosphate biosynthetic pathway and\
+      \ in the\nsynthesis of Dol-P-glucose (Burda and  Aebi,  1999),  which  can \
+      \ serve  as  a\nsubstate  for  the  glycosyltransferases  Alg6p  and  Alg8p\
+      \  (Reiss  et  al.,\n1996).  These  glycosyltransferases  are  vital  for  proper\
+      \  cell  wall  mannan\nbiosynthesis  in Saccharomyces cerevisiae as well as\
+      \ in Candida albicans\n(Engering et al., 2002).  Our  data  presented  here\
+      \  further  provide  evidence\nfor  the importance  of  PGM  activity  in  proper\
+      \  yeast  cell  wall\nmannoprotein formation. Although as mentioned above, the\
+      \ most abundant N- linked\nglycan  configuration  is  the  M5N2  configuration\
+      \  in Pneumocystis ,  the\norganism does contain minor amounts of longer mannan\
+      \ chains as long as M9N2 (Ma\net al., 2016). Others have reported that S. cerevisiae\
+      \ contains highly complexed\nbranch mannans (Engering et al., 2002; Giaimis\
+      \ et al., 1993), and we recently\ndemonstrated that an MR Fc fusion could bind\
+      \ these yeast mannan to a significant\ndegree (Kottom et al., 2019). Our  results\
+      \  suggest  that  fungal  PGMs  are\nhighly  conserved  and  can function in\
+      \ the formation of both short as well as\nextended/complex Nlinked glycan outer\
+      \ chain formation. Therefore, specifically\ntargeting fungal PGMs might be an\
+      \ attractive therapeutic option against fungal\npathogens.  For  example,  recently,\
+      \  a  specific  inhibitor  targeting  the\nAspergillus fumigatus PGM ( Af PGM)\
+      \ termed ISFP10 with a IC50 value of 2 \u03BC M and\n50-fold selectivity against\
+      \ the human PGM homolog has been reported (Yan et al.,\n2022) and also used\
+      \ by our lab to show significant reduction  in  PmPgm2\nactivity  in  vitro\
+      \  (Kottom  et  al.,  2024).  In A. fumigatus ; this small\nmolecule targets\
+      \ the cysteine at amino acid position 353 (C353) of the Af PGM,\nwhich is absent\
+      \ from the Homo sapiens PGM  enzyme,  accounting  for  the\ninhibitor s  selectivity\
+      \  (Yan  et  al., ' 2022). Protein alignments of this\nregion from ten of the\
+      \ top WHO fungal priority pathogen (Burki, 2023) PGM\nenzymes show conservation\
+      \ of this cysteine across 8 of the 10 fungal pathogens\n(Fig. 2B, red box),\
+      \ with only substitution of the amino acid from both of the\nCryptococcus spp\
+      \ s. These ' results  suggest  targeting  fungal  PGM  proteins\nwith  such\
+      \  specific  inhibitors and thus affecting downstream synthesis of\nnascent\
+      \ \u03B2 -glucan and N-linked  mannoprotein formation might  be a  viable\n\
+      therapeutic strategy against a broad spectrum of fungal pathogens."
+    questions_and_answers:
+      - question: |-
+          What is the amino acid position at which the ISFP10 inhibitor targets the
+          Aspergillus fumigatus PGM?
+        answer: |-
+          The ISFP10 inhibitor targets the cysteine at amino acid position 353 (C353) of
+          the Af PGM.
+      - question: |-
+          Based on the conservation of a specific cysteine across most fungal PGM enzymes,
+          what can be inferred about the potential effectiveness of targeting this region
+          with inhibitors?
+        answer: "If inhibitors can be developed to selectively target this conserved\
+          \ cysteine\nregion in fungal PGM enzymes, they could potentially affect\
+          \ downstream synthesis\nof nascent \u03B2-glucan and N-linked mannoprotein\
+          \ formation in a broad spectrum of\nfungal pathogens."
+  - context: "Two experiments and an analysis of the yeast cell wall composition were\n\
+      performed.  All  yeast  experiments  were  conducted  with  yeast grown in 2\
+      \ %\ngalactose URA- minimal media to induce the pYES2.1/ Pmpgm2 or pYES2.1/\
+      \ lacZ\n(control) vectors, respectively (Kottom et al., 2024). First, to determine\
+      \ the\npercent binding of select hFc-fusion carbohydrate recognition binding\
+      \ domains\n(CRDs) to the respective yeast strain, 2.0 \xB5 g per well of native\
+      \ yeast protein\nlysate were deposited onto 96-well microtiter plates and left\
+      \ to incubate at 4\nC overnight. The next \u25E6 day, plates underwent three\
+      \ washes with 100 \xB5 l  PBS-\nTween (PBS-T). Subsequently, wells were blocked\
+      \ with PBS/10 % FBS/2.5 % milk at\n4  C \u25E6 for  2  h.  After  three  additional\
+      \  washes  with  PBS-T,  CLR  hFc-\nfusion proteins (200 ng) (Kottom et al.,\
+      \ 2019) in lectin binding buffer (LBB)\n(50 mM HEPES, 5 mM MgCl2, and 5 mM CaCl2)\
+      \ were incubated in the plate wells for\n2 h at 4  C. Following this, a 1:1000\
+      \ dilution factor of HRP \u25E6 goat  anti-human\nantibody  (SouthernBiotech)\
+      \  in  blocking  buffer  was applied for 1 h at 4  C.\nFinally, after washing\
+      \ the plates three times with \u25E6 1X PBS-T, 1X TMB substrate\nwas added for\
+      \ 20 min at room temperature, followed by stopping the reaction with\n2.0 M\
+      \ H2SO4. The plates were then analyzed using a VERSAmax microplate reader\n\
+      (Molecular Devices) at 450 nm. To analyze yeast construct binding to RAW\nmacrophages,\
+      \ 2 x 10 5 cells  were  plated  in  duplicate  in  a  96  well\nmicrotiter \
+      \ plate  and incubated for 1.5 h at 37  C/5%C02. Next, yeast cells\nwere added\
+      \ to the \u25E6 RAW cells at ~ 1:1 ratio. The plates were centrifuged at 500\n\
+      x g to synchronize infection and allowed to incubate for 30 min. After 30 min,\n\
+      wells were washed 3 times with 1X PBS (200 ul/well), lysed with RIPA buffer\n\
+      incubation for 10 min and 50 ul plated onto 2 % galactose URA-"
+    questions_and_answers:
+      - question: |-
+          What is the temperature at which the yeast cells were incated for 1.5 hours
+          before adding to RAW cells?
+        answer: 37  C/5%C02
+  - context: "Mannose (Man), TK1  Mass  ( \xB5 g) = 4.6. Mannose (Man), Mol  % = 32.1.\
+      \ Mannose\n(Man), TK2  Mass  ( \xB5 g) = 18.8. Mannose (Man), Mol  % = 15.9.\
+      \ Mannose (Man),\nTK3  Mass  ( \xB5 g) = 6.5. Mannose (Man), Mol  % = 44.8.\
+      \ Glucose (Glc), TK1  Mass\n( \xB5 g) = 9.8. Glucose (Glc), Mol  % = 67.9. Glucose\
+      \ (Glc), TK2  Mass  ( \xB5 g) =\n99.2. Glucose (Glc), Mol  % = 84.1. Glucose\
+      \ (Glc), TK3  Mass  ( \xB5 g) = 8.0.\nGlucose (Glc), Mol  % = 55.2. Sum, TK1\
+      \  Mass  ( \xB5 g) = 14.5. Sum, Mol  % = 100.\nSum, TK2  Mass  ( \xB5 g) = 118.0.\
+      \ Sum, Mol  % = 100. Sum, TK3  Mass  ( \xB5 g) =\n14.5. Sum, Mol  % = 100. Total\
+      \ carbohydrate by  weight %, TK1  Mass  ( \xB5 g) =\n2%. Total carbohydrate\
+      \ by  weight %, Mol  % = -. Total carbohydrate by  weight\n%, TK2  Mass  ( \xB5\
+      \ g) = 14.7%. Total carbohydrate by  weight %, Mol  % = -. Total\ncarbohydrate\
+      \ by  weight %, TK3  Mass  ( \xB5 g) = 2%. Total carbohydrate by  weight\n%,\
+      \ Mol  % = -"
+    questions_and_answers:
+      - question: What is the mass of Mannose in TK3?
+        answer: "6.5 \xB5g"
+      - question: |-
+          What are the total masses and mol percentages for each trichloroacetic acid (TK)
+          sample?
+        answer: "TK1: Mass - 14.5 \xB5g, Mol % - 100. TK2: Mass - 118.0 \xB5g, Mol\
+          \ % - 100. TK3: Mass -\n14.5 \xB5g, Mol % - 100."
+      - question: |-
+          Based on the information, what can you infer about the relationship between
+          Mannose and Glucose in each TK sample?
+        answer: "In TK1, Glucose is more prevalent than Mannose (9.8 \xB5g vs 4.6\
+          \ \xB5g and 67.9% vs\n32.1%). In TK2, Glucose is also more abundant than\
+          \ Mannose (99.2 \xB5g vs 18.8 \xB5g\nand 84.1% vs 15.9%). However, in TK3,\
+          \ Mannose has a higher mol % than Glucose\n(44.8% vs 55.2%) despite having\
+          \ a lower mass (6.5 \xB5g vs 8.0 \xB5g), indicating that\nthe distribution\
+          \ of Mannose and Glucose may vary between samples."
+  - context: |-
+      The  authors  declare  the  following  financial  interests/personal
+      relationships which may be considered as potential competing interests: Andrew H
+      Limper reports financial support was provided by National Institutes of Health.
+      Theodore J Kottom reports financial support was provided by National Institutes
+      of Health. Eva Carmona reports financial support was provided by National
+      Institutes of Health. If there are other authors, they declare that they have no
+      known competing financial interests or personal relationships that could have
+      appeared to influence the work reported in this paper.
+    questions_and_answers:
+      - question: |-
+          What is the source of financial support for Andrew H Limper, Theodore J Kottom,
+          and Eva Carmona?
+        answer: |-
+          The financial support for Andrew H Limper, Theodore J Kottom, and Eva Carmona
+          was provided by the National Institutes of Health.
+      - question: |-
+          Who are the authors who have declared financial support from the National
+          Institutes of Health?
+        answer: |-
+          Andrew H Limper, Theodore J Kottom, and Eva Carmona have declared financial
+          support from the National Institutes of Health.
+  - context: |-
+      Kutty, G., England, K.J., Kovacs, J.A., 2013. Expression of Pneumocystis jirovecii major surface glycoprotein in Saccharomyces cerevisiae. J. Infect. Dis. 208, 170 -179.
+      Lopez-Sanchez, C., Falco, V., Burgos, J., Navarro, J., Martin, M.T., Curran, A., Miguel, L., Ocana, I., Ribera, E., Crespo, M., Almirante, B., 2015. Epidemiology and long-term survival in HIV-infected patients with Pneumocystis jirovecii pneumonia in the HAART era: experience in a university hospital and review of the literature. Medicine (Baltimore) 94, e681.
+      Ma, L., Chen, Z., Huang da, W., Kutty, G., Ishihara, M., Wang, H., Abouelleil, A., Bishop, L., Davey, E., Deng, R., Deng, X., Fan, L., Fantoni, G., Fitzgerald, M., Gogineni, E., Goldberg, J.M., Handley, G., Hu, X., Huber, C., Jiao, X., Jones, K., Levin, J.Z., Liu, Y., Macdonald, P., Melnikov, A., Raley, C., Sassi, M., Sherman, B.T., Song, X., Sykes, S., Tran, B., Walsh, L., Xia, Y., Yang, J., Young, S., Zeng, Q., Zheng, X., Stephens, R., Nusbaum, C., Birren, B.W., Azadi, P., Lempicki, R.A., Cuomo, C.A., Kovacs, J.A., 2016. Genome analysis of three Pneumocystis species reveals adaptation mechanisms to life exclusively in mammalian hosts. Nat. Commun. 7, 10740.
+    questions_and_answers:
+      - question: What is the title of the first research article mentioned?
+        answer: |-
+          The title of the first research article is 'Expression of Pneumocystis jirovecii
+          major surface glycoprotein in Saccharomyces cerevisiae'.
+      - question: |-
+          What can be inferred about the focus of the two research articles and the study
+          mentioned?
+        answer: |-
+          The focus of the two research articles and the study is Pneumocystis jirovecii,
+          its major surface glycoprotein, genome analysis, and its relation to mammalian
+          hosts and HIV-infected patients.
+      - question: |-
+          Based on the titles of the three authors in the first article, what might be a
+          reasonable conclusion about their expertise?
+        answer: |-
+          A reasonable conclusion is that the authors have expertise in areas such as
+          genetics, microbiology, infectious diseases, and bioinformatics.
+  - context: |-
+      Wang, Y., Huang, X., Sun, T., Fan, G., Zhan, Q., Weng, L., 2022. Non-HIV-infected patients with Pneumocystis pneumonia in the intensive care unit: a bicentric, retrospective study focused on predictive factors of in-hospital mortality. Clin. Respir. J. 16, 152 -161.
+      Yan, K., Stanley, M., Kowalski, B., Raimi, O.G., Ferenbach, A.T., Wei, P., Fang, W., van Aalten, D.M.F., 2022. Genetic validation of Aspergillus fumigatus phosphoglucomutase as a viable therapeutic target in invasive aspergillosis. J. Biol. Chem. 298, 102003.
+    questions_and_answers:
+      - question: What is the title of the second study mentioned?
+        answer: |-
+          Genetic validation of Aspergillus fumigatus phosphoglucomutase as a viable
+          therapeutic target in invasive aspergillosis
+      - question: What are the two studies about and in which journals were they published?
+        answer: |-
+          The first study, 'Non-HIV-infected patients with Pneumocystis pneumonia in the
+          intensive care unit: a bicentric, retrospective study focused on predictive
+          factors of in-hospital mortality', was published in Clinical Respiratory
+          Journal. The second study, 'Genetic validation of Aspergillus fumigatus
+          phosphoglucomutase as a viable therapeutic target in invasive aspergillosis',
+          was published in the Journal of Biological Chemistry.
+      - question: |-
+          Based on the information provided, what can we infer about the focus of the two
+          studies and their potential impact on the field of medical research?
+        answer: |-
+          The first study focuses on predictive factors of in-hospital mortality for non-
+          HIV-infected patients with Pneumocystis pneumonia in the intensive care unit,
+          which could provide valuable insights for improving treatment and care. The
+          second study genetically validates Aspergillus fumigatus phosphoglucomutase as a
+          viable therapeutic target in invasive aspergillosis, potentially leading to more
+          effective treatments for this serious condition.
